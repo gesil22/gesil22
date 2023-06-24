@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gesil22
+- 👋 Hi, I’m @gesil
 - 👀 I’m interested working in front-end websites for now.
 - 🌱 I’m currently learning on the back-end side
 - 💞️ I’m looking to collaborate on some projects
